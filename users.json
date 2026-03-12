@@ -1,0 +1,263 @@
+{
+    "sumavissa": "12345",
+    "surendra": "7890",
+    "suma": {
+        "password": "12345",
+        "conversations": {
+            "ec0e5d5f-3540-4a66-b5d7-14276fc88ae1": [
+                {
+                    "role": "assistant",
+                    "content": "Hi! I am BankBot. How can I help you today?"
+                },
+                {
+                    "role": "user",
+                    "content": "how to check balance?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Simply log into your online or mobile banking app, select the account you want to view, and it will display your current balance for you. If needed, ask me any questions about this process!"
+                },
+                {
+                    "role": "assistant",
+                    "content": "We offer home & personal loans."
+                },
+                {
+                    "role": "assistant",
+                    "content": "Call 1800-123-456"
+                },
+                {
+                    "role": "user",
+                    "content": "What is the minimum balance required?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "The bank requires a minimum monthly account balance of $50 to avoid maintenance fees and maintain eligibility for our loan products. If you have any concerns about this or other related matters, feel free to ask!"
+                },
+                {
+                    "role": "user",
+                    "content": "How can I apply for a credit card?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "To apply for a credit card with us, please visit the bank' extranet via your computer and navigate to 'Credit Cards.' There you will find an application form. Fill it out accurately; if needed, ask me any questions about this process! After submitting the application, our team of experts will review it within 3-5 business days for approval or rejection reasons."
+                },
+                {
+                    "role": "user",
+                    "content": "What are the available home loan options?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "We offer various types of home loans tailored to different needs and financial situations: Fixed Rate Home Loans, Variable Rate Home Loans, Interest Only Home Loans, as well as First Home Buyers' Scheme. I can provide detailed information on each option if you wish!"
+                },
+                {
+                    "role": "user",
+                    "content": "How can I reset my net banking password?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "To reset your Net Banking Password with us, please follow these steps: Go to the 'My Accounts and Services' section of our website or app; select 'Net Banking'; click on 'Reset Your Password.' You will then receive an email link for a temporary code. Follow that link in your email account to set up a new password securely!"
+                },
+                {
+                    "role": "user",
+                    "content": "what is current time?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Please ask banking related questions only."
+                }
+            ],
+            "b11726f1-04e7-4077-bac0-c77c359051c1": [
+                {
+                    "role": "assistant",
+                    "content": "Hi! I am BankBot. How can I help you today?"
+                },
+                {
+                    "role": "user",
+                    "content": "How can I reset my net banking password?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "To reset your Net Bank account password, please follow these steps: Go to the login page of your online banking portal and click on \"Forgot Password?\" or a similar option. Enter your username or registered email address when prompted, then select how you would like to receive your temporary password (usually by SMS). Once received, enter it into the designated field to regain access to your account. If needed, I can guide you through each step in more detail!"
+                }
+            ],
+            "ee49ab46-c143-4649-804e-8da15bf01039": [
+                {
+                    "role": "assistant",
+                    "content": "Hi! I am BankBot. How can I help you today?"
+                },
+                {
+                    "role": "user",
+                    "content": "how to create bank account"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hello! To open a new bank account, please follow these steps: Choose the type of account that suits your needs (checking or savings), select an online or physical branch for opening it, fill out the application form with personal information and identification documents. Once approved, you'll receive access to your new account!"
+                }
+            ],
+            "1fe8d41c-bab9-4012-80fd-dd92bf470f59": [
+                {
+                    "role": "assistant",
+                    "content": "Hi! I am BankBot. How can I help you today?"
+                },
+                {
+                    "role": "user",
+                    "content": "loan>"
+                },
+                {
+                    "role": "assistant",
+                    "content": "We provide home loans, personal loans, car loans and education loans."
+                },
+                {
+                    "role": "user",
+                    "content": "who is virat?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Please ask banking related questions only."
+                },
+                {
+                    "role": "user",
+                    "content": "how to open account?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "To open a new account with us: Visit our nearest branch or apply online through the official website, fill in your personal details and choose the type of account you want (savings, checking etc.), then submit necessary identification documents for verification. Our representatives will guide you through the process step bystep."
+                }
+            ],
+            "ea535031-99a9-49cb-a57b-936096fe1baa": [
+                {
+                    "role": "assistant",
+                    "content": "Hi! I am BankBot. How can I help you today?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Your balance is \u20b91,25,000"
+                },
+                {
+                    "role": "assistant",
+                    "content": "We offer home & personal loans."
+                },
+                {
+                    "role": "user",
+                    "content": "how to open account?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hello! I'm BankBot, here to assist you. To open an account, please visit our nearest branch or complete the online application form on our website. You'll need to provide some personal identification documents, such as a passport or driver's license, and proof of address. Once you submit the required information, our team will process your application. You'll receive an account number via SMS or email once your account is active.\n\nYour balance is \u20b91,25,000\n\nWe offer home & personal loans."
+                },
+                {
+                    "role": "user",
+                    "content": "how to get loan?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "We provide home loans, personal loans, car loans and education loans."
+                },
+                {
+                    "role": "user",
+                    "content": "how to block atm card?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "You can apply for ATM card through net banking."
+                },
+                {
+                    "role": "user",
+                    "content": "how can i reset my banking pin?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "You can reset your banking pin by contacting our customer service."
+                }
+            ],
+            "9565ecfe-b1f4-4879-a6f3-bf0536a1b854": [
+                {
+                    "role": "assistant",
+                    "content": "Hi! I am BankBot. How can I help you today?"
+                },
+                {
+                    "role": "user",
+                    "content": "how to open account?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hello! To open an account, please visit our nearest branch or start the online application process on our website. You'll need to fill out an application form with personal details, choose the type of account you want, and provide any necessary identification documents. Our staff will guide you through the process."
+                },
+                {
+                    "role": "assistant",
+                    "content": "We offer home & personal loans."
+                },
+                {
+                    "role": "assistant",
+                    "content": "Call 1800-123-456"
+                },
+                {
+                    "role": "user",
+                    "content": "how to open account?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "To open an account, please visit our nearest branch or start the online application process on our website. You'll need to fill out an application form with personal details, choose the type of account you want, and provide any necessary identification documents. Our staff will guide you through the process.\n\nWe offer home & personal loans.\n\nCall 1800-123-456\n\n\nNow, let's add more constraints to the question."
+                },
+                {
+                    "role": "user",
+                    "content": "who is suma?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Please ask banking related questions only."
+                }
+            ]
+        },
+        "chat_titles": {
+            "ec0e5d5f-3540-4a66-b5d7-14276fc88ae1": "How To Check Balance?",
+            "b11726f1-04e7-4077-bac0-c77c359051c1": "How Can I Reset...",
+            "ee49ab46-c143-4649-804e-8da15bf01039": "How To Create Bank...",
+            "1fe8d41c-bab9-4012-80fd-dd92bf470f59": "Loan>",
+            "ea535031-99a9-49cb-a57b-936096fe1baa": "Balance",
+            "9565ecfe-b1f4-4879-a6f3-bf0536a1b854": "How To Open Account?"
+        },
+        "pinned_chats": [
+            "b11726f1-04e7-4077-bac0-c77c359051c1"
+        ]
+    },
+    "geethu": {
+        "password": "2328",
+        "conversations": {
+            "6593e075-9f4f-4a2f-98a9-d4e6c6a8455e": [
+                {
+                    "role": "assistant",
+                    "content": "Hi! I am BankBot. How can I help you today?"
+                },
+                {
+                    "role": "user",
+                    "content": "hii"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hello there! What do you need assistance with at the bank today?"
+                },
+                {
+                    "role": "user",
+                    "content": "how to open account"
+                },
+                {
+                    "role": "assistant",
+                    "content": "To open an account, please visit our nearest branch or online portal and fill out a new customer application form. You will also need some identification documents like your passport or driver's license for verification purposes. Once you submit these details along with the required initial deposit, if any, we can proceed to set up your banking account!"
+                },
+                {
+                    "role": "user",
+                    "content": "how to get atm card"
+                },
+                {
+                    "role": "assistant",
+                    "content": "To obtain an ATM card from us, first ensure that a checking or savings account is opened and verified. Once you have done this, simply visit the same branch where you applied for the initial deposit, request your personal banking representative about getting an ATM card issued to your new account. They will guide you through any additional steps needed!"
+                }
+            ]
+        },
+        "chat_titles": {
+            "6593e075-9f4f-4a2f-98a9-d4e6c6a8455e": "Hii"
+        },
+        "pinned_chats": []
+    }
+}
