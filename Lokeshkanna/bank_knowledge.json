@@ -1,0 +1,178 @@
+{
+  "sections": [
+    {
+      "name": "Account Opening",
+      "description": "New account creation and documentation",
+      "faqs": [
+        {
+          "question": "How to open account?",
+          "keywords": ["open account", "new account", "create account"],
+          "answer": "You need Aadhaar, PAN and address proof. Visit nearest branch or use Capital Bank mobile app."
+        },
+        {
+          "question": "What documents are required for a savings account?",
+          "keywords": ["documents", "savings account", "paperwork", "kyc"],
+          "answer": "You need: Aadhaar card, PAN card, 2 passport-size photos, and address proof (utility bill or rental agreement)."
+        },
+        {
+          "question": "How long does it take to open an account?",
+          "keywords": ["how long", "time", "days", "account opening time"],
+          "answer": "Online account opening takes 24-48 hours. In-branch opening is completed the same day if all documents are in order."
+        },
+        {
+          "question": "What is the minimum balance for a savings account?",
+          "keywords": ["minimum balance", "min balance", "average balance"],
+          "answer": "The minimum average monthly balance is ₹5,000 for urban branches and ₹2,000 for rural/semi-urban branches."
+        }
+      ]
+    },
+    {
+      "name": "UPI & Payments",
+      "description": "UPI limits, transfers, and payment services",
+      "faqs": [
+        {
+          "question": "What is the UPI daily transaction limit?",
+          "keywords": ["upi limit", "upi daily limit", "upi transaction limit", "upi maximum"],
+          "answer": "The daily UPI limit is ₹1,00,000 across all UPI apps linked to your Capital Bank account."
+        },
+        {
+          "question": "How do I set up UPI on Capital Bank app?",
+          "keywords": ["setup upi", "register upi", "upi registration", "upi setup"],
+          "answer": "Open Capital Bank app → UPI → Register → Link your account → Set UPI PIN using debit card details."
+        },
+        {
+          "question": "What is the NEFT/RTGS transfer limit?",
+          "keywords": ["neft limit", "rtgs limit", "transfer limit", "neft", "rtgs"],
+          "answer": "NEFT: No upper limit (minimum ₹1). RTGS: Minimum ₹2,00,000, no upper cap. Both are available 24x7."
+        },
+        {
+          "question": "How do I transfer money via IMPS?",
+          "keywords": ["imps", "imps transfer", "instant transfer"],
+          "answer": "IMPS transfers are available 24x7 up to ₹5,00,000 per transaction via net banking or mobile app."
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "description": "Debit and Credit card services and management",
+      "faqs": [
+        {
+          "question": "How do I block my debit card?",
+          "keywords": ["block card", "block debit card", "lost card", "stolen card", "deactivate card"],
+          "answer": "Use Capital Bank app → Cards → Block Card instantly. You can also call 1800-123-4567 or SMS BLOCK<last 4 digits> to 567676."
+        },
+        {
+          "question": "How do I apply for a credit card?",
+          "keywords": ["apply credit card", "credit card application", "new credit card", "get credit card"],
+          "answer": "Apply online at capitalbank.com/cards or visit any branch. You need income proof, PAN, Aadhaar, and 3 months' bank statement."
+        },
+        {
+          "question": "What is the credit card billing cycle?",
+          "keywords": ["billing cycle", "credit card bill", "statement date", "due date"],
+          "answer": "The billing cycle is 30 days. Your statement is generated on the 1st of each month with a 20-day interest-free period."
+        },
+        {
+          "question": "How do I increase my credit card limit?",
+          "keywords": ["increase limit", "credit limit", "card limit increase", "enhance limit"],
+          "answer": "Log in to net banking → Cards → Request Limit Enhancement. Approval depends on credit history and income."
+        }
+      ]
+    },
+    {
+      "name": "Loans",
+      "description": "Personal, home, and business loans",
+      "faqs": [
+        {
+          "question": "How do I apply for a personal loan?",
+          "keywords": ["personal loan", "apply loan", "get loan", "instant loan"],
+          "answer": "Apply via Capital Bank app or website. You need salary slips (3 months), PAN, Aadhaar, and bank statements (6 months). Disbursal in 2-3 working days."
+        },
+        {
+          "question": "What is the home loan interest rate?",
+          "keywords": ["home loan rate", "housing loan interest", "mortgage rate", "home loan interest"],
+          "answer": "Home loan interest rates start from 8.5% p.a. (floating). Rates vary based on loan amount, tenure, and credit score."
+        },
+        {
+          "question": "What is the EMI for a personal loan?",
+          "keywords": ["emi", "monthly installment", "loan repayment", "loan emi"],
+          "answer": "EMI depends on loan amount, interest rate, and tenure. Use our EMI calculator at capitalbank.com/emi-calculator."
+        },
+        {
+          "question": "How to foreclose or prepay a loan?",
+          "keywords": ["foreclose", "prepay loan", "close loan early", "loan prepayment"],
+          "answer": "Visit the nearest branch or call 1800-123-4567. Foreclosure charges: 2% of outstanding principal after 6 EMIs."
+        }
+      ]
+    },
+    {
+      "name": "Customer Support",
+      "description": "Contact details and support services",
+      "faqs": [
+        {
+          "question": "What is the customer care number?",
+          "keywords": ["customer care", "helpline", "contact number", "toll free", "phone number", "call"],
+          "answer": "Call 1800-123-4567 (24x7 toll-free) or 1800-425-0012. Email: support@capitalbank.com"
+        },
+        {
+          "question": "How do I raise a complaint?",
+          "keywords": ["complaint", "grievance", "raise complaint", "file complaint", "issue"],
+          "answer": "Raise a complaint via: App → Help → Raise Ticket, or email grievance@capitalbank.com, or visit your nearest branch."
+        },
+        {
+          "question": "Where can I find the nearest branch or ATM?",
+          "keywords": ["nearest branch", "atm location", "find branch", "branch locator", "atm near me"],
+          "answer": "Use Capital Bank app → Branch/ATM Locator, or visit capitalbank.com/locator to find branches and ATMs near you."
+        }
+      ]
+    },
+    {
+      "name": "FD & Investments",
+      "description": "Fixed deposits and investment products",
+      "faqs": [
+        {
+          "question": "What is the current FD interest rate?",
+          "keywords": ["fd rate", "fixed deposit rate", "fd interest", "fixed deposit interest"],
+          "answer": "Capital Bank FD rates: 1 year – 6.75%, 2 years – 7.00%, 3-5 years – 7.25%. Senior citizens get 0.50% extra."
+        },
+        {
+          "question": "How to open a Fixed Deposit?",
+          "keywords": ["open fd", "create fd", "fixed deposit", "book fd", "start fd"],
+          "answer": "Open FD via: Net banking → Deposits → Open FD, or Capital Bank app → Deposits → New FD. Minimum amount: ₹10,000."
+        },
+        {
+          "question": "What is a Recurring Deposit (RD)?",
+          "keywords": ["rd", "recurring deposit", "monthly saving", "recurring"],
+          "answer": "RD allows monthly deposits starting from ₹500. Current RD interest rate: 6.50% p.a. for 12-24 month tenure."
+        }
+      ]
+    },
+    {
+      "name": "Digital Banking",
+      "description": "Mobile app, net banking, and security",
+      "faqs": [
+        {
+          "question": "How do I check my account balance?",
+          "keywords": ["check balance", "account balance", "balance inquiry", "balance check"],
+          "answer": "SMS: BAL<last 4 digits> to 567676. Or use Capital Bank mobile app, net banking, or missed call on 8800-123456."
+        },
+        {
+          "question": "How do I reset my net banking password?",
+          "keywords": ["reset password", "forgot password", "net banking password", "login password"],
+          "answer": "Go to capitalbank.com → Login → Forgot Password → Enter registered mobile/email → Verify OTP → Set new password."
+        },
+        {
+          "question": "Is Capital Bank app safe?",
+          "keywords": ["app safe", "security", "safe banking", "fraud", "secure"],
+          "answer": "Yes. The app uses 256-bit encryption, 2-factor authentication, and real-time fraud monitoring. Never share OTP or PIN with anyone."
+        },
+        {
+          "question": "How do I download the Capital Bank app?",
+          "keywords": ["download app", "install app", "mobile app", "banking app"],
+          "answer": "Search 'Capital Bank' on Google Play Store (Android) or Apple App Store (iOS). Download the official app verified by Capital Bank Ltd."
+        }
+      ]
+    }
+  ],
+  "off_topic_response": "I'm Capital Bank's AI assistant and can only help with banking-related queries such as accounts, loans, cards, UPI, FDs, and digital banking. For other topics, I'd recommend consulting the appropriate resources. Is there anything banking-related I can help you with? 😊",
+  "fallback_response": "I don't have specific information on that. Please contact our customer care at **1800-123-4567** (24x7) or email **support@capitalbank.com**, or visit your nearest Capital Bank branch."
+}
